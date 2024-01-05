@@ -168,7 +168,7 @@ focus_on_window_activation = "smart"
 reconfigure_screens = True
 auto_minimize = False
 
-# Needed for some Java appscustom_scripts/__init__.py
+# Needed for some Java apps
 #wmname = "LG3D"
 wmname = "qtile"
 
